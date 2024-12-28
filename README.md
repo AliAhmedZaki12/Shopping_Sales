@@ -1,5 +1,5 @@
-# Sales Dashboard Project
-
+# Shopping-Sales
+---
 ## Purpose
 The purpose of this project is to analyze sales data across different regions, product categories, and customers to uncover key trends and insights. This interactive dashboard was built entirely using Excel to provide a comprehensive view of sales performance, shipping costs, and customer contributions.
 
